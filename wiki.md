@@ -1,5 +1,5 @@
 # Marvel Rivals
-![Marvel Rivals Thumbnail](https://static.wikia.nocookie.net/marvel-rivals/images/e/e1/Mainpage_Slide_1.png/revision/latest/scale-to-width-down/1000?cb=20240329114527)
+![Marvel Rivals Thumbnail](images/rivals.jpg)
 
 **Marvel Rivals** is a free-to-play shooter game I have recently been interested in that was released on December 6th, 2024. Marvel Rivals has playable characters from the Marvel Universe such as Spiderman, Hulk, Captain America, etc. This document will showcase the characters I enjoy playing and what I like about the game!
 
@@ -9,10 +9,10 @@ To begin, I will first talk about the three roles in Marvel Rivals: Vanguards, D
 ## What is my favorite role to play?
 My favorite role to play is Duelist!
 ### Moon Knight
-![Moon Knight](https://static.wikia.nocookie.net/marvel-rivals/images/3/36/Moon_Knight_Hero_Portrait.png/revision/latest?cb=20241113041358)
+![Moon Knight](images/moonknight.png)
 [Moon Knight](https://marvelrivals.fandom.com/wiki/Moon_Knight) is one of my go-to characters to play in Marvel Rivals! He is a long ranged character with great mobility such as a grappling hook, gliding when in the air, and a double jump. The most satisfying part of his skill sets is his ability to throw out ankhs. The ankhs pulls enemies in towards wherever it is thrown and whenever Moon Knight shoots the ankh, his projectiles ricochet onto the enemies.
 ### Psylocke
-![Psylocke](https://static.wikia.nocookie.net/marvel-rivals/images/1/18/Psylocke_Hero_Portrait.png/revision/latest?cb=20241128173406)
+![Psylocke](images/psylocke.png)
 [Psylocke](https://marvelrivals.fandom.com/wiki/Psylocke) is my second favorite duelist to play in Marvel Rivals! Psylocke is very different compared to Moon Knight as she is a close to mid range assassin that gets close to the enemies to flank them. Psylocke has even greater mobility then Moon Knight because she has access to two dashes and the ability to gain movement speed while invisible. The most satisfying part of Psylocke to me is her ability to eliminate enemy strategist in an instant and get out to safety providing an advantage for her team.
 
 ## What other characters do I enjoy playing?
